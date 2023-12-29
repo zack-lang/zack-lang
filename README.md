@@ -11,7 +11,7 @@ I'm a tech enthusiast with a passion for backend development and cloud technolog
 - Developing cloud-native microservices: Architecting distributed and fault-tolerant systems.
 - Contributing to open-source projects: Sharing my skills and learning from the community.
   
-📫 You can reach me through direct messages here, or email me at [your email address]. Let's connect and create something awesome together!
+📫 You can reach me through direct messages here, or email me at zack.lang@proton.me. Let's connect and create something awesome together!
 <!---
 zack-lang/zack-lang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
